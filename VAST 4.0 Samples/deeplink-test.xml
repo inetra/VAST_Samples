@@ -45,7 +45,7 @@
                 <![CDATA[http://myTrackingURL/clickTracking]]>
               </ClickTracking>
               <ClickThrough id="blog">
-                <![CDATA[tel://2222222]]>
+                <![CDATA[vnd.youtube://dQw4w9WgXcQ]]>
               </ClickThrough>
             </VideoClicks>
           </Linear>
